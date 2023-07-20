@@ -1,5 +1,5 @@
 # 💫 About Me:
-A tech guy working to contribute to the AI4SDGs Think Tank
+I'm Armaan, a tech guy working to promote the positive use of AI for meaningful contributions
 
 
 ## 🌐 Socials:
