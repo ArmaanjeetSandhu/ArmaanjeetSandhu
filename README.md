@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 I'm Armaan, a tech guy working to promote the positive use of AI for meaningful contributions
 
 
