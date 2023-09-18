@@ -3,7 +3,7 @@ I'm Armaan, a tech guy working to promote the positive use of AI for meaningful 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armaanjeetsandhu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/chillstar10) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armaanjeetsandhu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/chillstar10) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@armaanjeetsandhu)
 
 [![ArmaanjeetSandhu's GitHub | Languages Over Time](https://stats.quine.sh/ArmaanjeetSandhu/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
 
