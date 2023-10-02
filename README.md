@@ -26,3 +26,9 @@ I'm Armaan, a tech guy working to promote the positive use of AI for meaningful 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ArmaanjeetSandhu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+Made it to the end? Read this joke I came up with:
+<details>
+<summary>Who solved the mystery of concurrency control?</summary>
+It was Shared-Lock Holmes!
+</details>
