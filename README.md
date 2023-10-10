@@ -31,10 +31,10 @@ Made it to the end? Read this joke I came up with:
 <details>
 <summary>Who solved the mystery of concurrency control?</summary>
 It was Shared-Lock Holmes!  <br>
-  <i>Joke explanation: Shared locks are used in concurrency control to allow multiple transactions to read a resource simultaneously while preventing any of them from writing to it, ensuring data consistency.</i>
+  <sub><i><b>Joke explanation:</b> Shared locks are used in concurrency control to allow multiple transactions to read a resource simultaneously while preventing any of them from writing to it, ensuring data consistency.</i></sub>
 </details>
 <details>
 <summary>Why did the multi-armed bandit fail to rob the bank?</summary>
 Because he was n-armed (unarmed)!  <br>
-  <i>Joke explanation: The n-armed bandit problem is a classic dilemma in reinforcement learning where an agent must decide which arm of a multi-armed bandit to pull to maximize cumulative rewards over time, while facing uncertainty about each arm's reward distribution.</i>
+  <sub><i><b>Joke explanation:</b> The n-armed bandit problem is a classic dilemma in reinforcement learning where an agent must decide which arm of a multi-armed bandit to pull to maximize cumulative rewards over time, while facing uncertainty about each arm's reward distribution.</i></sub>
 </details>
