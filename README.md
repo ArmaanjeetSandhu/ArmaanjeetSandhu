@@ -1,5 +1,3 @@
-# 💫 About Me
-
 ![Header](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/about_me.gif?raw=true)
 
 [![An image of @armaanjeetsandhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/armaanjeetsandhu)](https://holopin.io/@armaanjeetsandhu)
