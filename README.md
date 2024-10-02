@@ -1,4 +1,8 @@
-![Header](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/about_me.gif?raw=true)
+![Header](GIFS/about_me.gif)
+
+# 🛠️ My toolbox
+
+![#1](GIFs/toolkit_1.gif) ![#2](GIFs/toolkit_2.gif)
 
 # 🌐 You can also find me here
 
@@ -23,11 +27,11 @@ Made it to the end? Read these jokes I came up with:
 
 <details>
 <summary>Who solved the mystery of concurrency control?</summary>
-It was Shared-Lock Holmes!  <br>
+It was <b>Shared-Lock</b> Holmes!  <br>
   <sub><i><b>Explanation:</b> Shared locks are used in concurrency control to allow multiple transactions to read a resource simultaneously while preventing any of them from writing to it, ensuring data consistency.</i></sub>
 </details>
 <details>
-<summary>Why did the multi-armed bandit fail to rob the bank?</summary>
-Because he was n-armed (unarmed)!  <br>
+<summary>Why did the RL agent fail to rob the bank?</summary>
+Because he was <b>n-armed</b>!  <br>
   <sub><i><b>Explanation:</b> The n-armed bandit problem is a classic dilemma in reinforcement learning where an agent must decide which arm of a multi-armed bandit to pull to maximize cumulative rewards over time, while facing uncertainty about each arm's reward distribution.</i></sub>
 </details>
