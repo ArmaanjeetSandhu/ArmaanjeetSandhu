@@ -1,23 +1,23 @@
 ![Header](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/about_me.gif?raw=true)
 
+# 🌐 You can also find me here
+
+![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335&link=mailto%3Aarmaanjeetsandhu430%40gmail.com)
+![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&link=https%3A%2F%2Fmedium.com%2F%40armaanjeetsandhu)
+![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF&link=https%3A%2F%2Fwww.kaggle.com%2Farmaanjeetsandhu)
+![StrataScratch](https://img.shields.io/badge/stratascratch-%2300a699?style=for-the-badge&link=https%3A%2F%2Fplatform.stratascratch.com%2Fuser%2Fchillstar)
+![MachineHack](https://img.shields.io/badge/machinehack-black?style=for-the-badge&link=https%3A%2F%2Fmachinehack.com%2Fuser%2F6561171c5ea925001af6d1fa)
+![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116&link=https%3A%2F%2Fleetcode.com%2Fu%2Fchillstar%2F)
+![MS Learn](https://img.shields.io/badge/microsoft_learn-%2300a8f0?style=for-the-badge&logoColor=white&color=%2300a8f0&link=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fusers%2Farmaanjeetsinghsandhu-4450%2F)
+![Coursera](https://img.shields.io/badge/coursera-%230056D2?style=for-the-badge&logo=coursera&logoColor=white&color=%230056D2&link=https%3A%2F%2Fwww.coursera.org%2Flearner%2Farmaanjeetsandhu)
+![Credly](https://img.shields.io/badge/credly-%23FF6B00?style=for-the-badge&logo=credly&logoColor=white&color=%23FF6B00&link=https%3A%2F%2Fwww.credly.com%2Fusers%2Farmaanjeet-sandhu)
+
 [![An image of @armaanjeetsandhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/armaanjeetsandhu)](https://holopin.io/@armaanjeetsandhu)
 
 [![ArmaanjeetSandhu's GitHub | Languages Over Time](https://stats.quine.sh/ArmaanjeetSandhu/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
 
 [![ArmaanjeetSandhu's GitHub | Stats](https://stats.quine.sh/ArmaanjeetSandhu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
 [![ArmaanjeetSandhu's GitHub | Dependencies](https://stats.quine.sh/ArmaanjeetSandhu/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
-
-# 📱 Connect with me on
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/armaanjeetsandhu) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/chillstar10) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@armaanjeetsandhu) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](armaanjeetsandhu430@gmail.com)
-
-# 💻 Skills and Tech Stack:
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ArmaanjeetSandhu&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Made it to the end? Read these jokes I came up with:
 
