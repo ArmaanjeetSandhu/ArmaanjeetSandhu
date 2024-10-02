@@ -1,8 +1,8 @@
-![Header](GIFS/about_me.gif)
+![Header](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/GIFs/about_me.gif?raw=true)
 
 # 🛠️ My toolbox
 
-![#1](GIFs/toolkit_1.gif) ![#2](GIFs/toolkit_2.gif)
+![#1](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/GIFs/toolkit_1.gif?raw=true) ![#2](https://github.com/ArmaanjeetSandhu/ArmaanjeetSandhu/blob/main/GIFs/toolkit_2.gif?raw=true)
 
 # 🌐 You can also find me here
 
