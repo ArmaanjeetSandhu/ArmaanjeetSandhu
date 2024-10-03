@@ -15,6 +15,8 @@
 [![MS Learn](https://img.shields.io/badge/microsoft_learn-%2300a8f0?style=for-the-badge&logoColor=white&color=%2300a8f0)](https://learn.microsoft.com/en-us/users/armaanjeetsinghsandhu-4450/)
 [![Coursera](https://img.shields.io/badge/coursera-%230056D2?style=for-the-badge&logo=coursera&logoColor=white&color=%230056D2)](https://www.coursera.org/learner/armaanjeetsandhu)
 [![Credly](https://img.shields.io/badge/credly-%23FF6B00?style=for-the-badge&logo=credly&logoColor=white&color=%23FF6B00)](https://www.credly.com/users/armaanjeet-sandhu)
+[![Spotify](https://img.shields.io/badge/spotify-%231DB954?style=for-the-badge&logo=spotify&logoColor=white&color=%231DB954)](https://open.spotify.com/user/31oznrny4qpmo363aqtifu2ytoey?si=149f26e7fcad4666)
+[![Substack](https://img.shields.io/badge/substack-%23FF6719?style=for-the-badge&logo=substack&logoColor=white&color=%23FF6719)](https://substack.com/@armaanjeetsandhu)
 
 [![An image of @armaanjeetsandhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/armaanjeetsandhu)](https://holopin.io/@armaanjeetsandhu)
 
