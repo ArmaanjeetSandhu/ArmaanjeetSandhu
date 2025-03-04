@@ -20,11 +20,6 @@
 
 [![An image of @armaanjeetsandhu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/armaanjeetsandhu)](https://holopin.io/@armaanjeetsandhu)
 
-[![ArmaanjeetSandhu's GitHub | Languages Over Time](https://stats.quine.sh/ArmaanjeetSandhu/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
-
-[![ArmaanjeetSandhu's GitHub | Stats](https://stats.quine.sh/ArmaanjeetSandhu/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
-[![ArmaanjeetSandhu's GitHub | Dependencies](https://stats.quine.sh/ArmaanjeetSandhu/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=ArmaanjeetSandhu)
-
 Made it to the end? Read these jokes I came up with:
 
 <details>
