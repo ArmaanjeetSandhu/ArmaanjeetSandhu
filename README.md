@@ -9,6 +9,7 @@
 [![Gmail](https://img.shields.io/badge/gmail-black?style=for-the-badge&logo=gmail&logoColor=white&color=%23EA4335)](mailto:armaanjeetsandhu430@gmail.com)
 [![Medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium)](https://medium.com/@armaanjeetsandhu)
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF)](https://www.kaggle.com/armaanjeetsandhu)
+[![HuggingFace](https://img.shields.io/badge/huggingface-%23FFCC00?style=for-the-badge&logo=huggingface&logoColor=black&color=%23FFCC00)](https://huggingface.co/chillstar)
 [![StrataScratch](https://img.shields.io/badge/stratascratch-%2300a699?style=for-the-badge)](https://platform.stratascratch.com/user/chillstar)
 [![MachineHack](https://img.shields.io/badge/machinehack-black?style=for-the-badge)](https://machinehack.com/user/6561171c5ea925001af6d1fa)
 [![LeetCode](https://img.shields.io/badge/leetcode-%23FFA116?style=for-the-badge&logo=leetcode&logoColor=white&color=%23FFA116)](https://leetcode.com/u/chillstar/)
