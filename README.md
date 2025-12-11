@@ -2,5 +2,4 @@
 [![Kaggle](https://img.shields.io/badge/kaggle-%2320BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=%2320BEFF)](https://www.kaggle.com/armaanjeetsandhu)
 [![HuggingFace](https://img.shields.io/badge/huggingface-%23FFCC00?style=for-the-badge&logo=huggingface&logoColor=black&color=%23FFCC00)](https://huggingface.co/chillstar)
 [![StrataScratch](https://img.shields.io/badge/stratascratch-%2300a699?style=for-the-badge)](https://platform.stratascratch.com/user/chillstar)
-[![MachineHack](https://img.shields.io/badge/machinehack-black?style=for-the-badge)](https://machinehack.com/user/6561171c5ea925001af6d1fa)
 [![Credly](https://img.shields.io/badge/credly-%23FF6B00?style=for-the-badge&logo=credly&logoColor=white&color=%23FF6B00)](https://www.credly.com/users/armaanjeet-sandhu)
